@@ -1,5 +1,6 @@
 package collect;
 import java.util.HashSet;
+import java.util.ArrayList;
 
 public class LongestSubString {
     public static void main(String[] args) {
