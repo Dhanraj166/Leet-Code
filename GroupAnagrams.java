@@ -1,5 +1,6 @@
-package collect;
-
+import java.util.HashMap;
+import java.util.List;
+import java.util.ArrayList;
 public class GroupAnagrams {
     public static void main(String[] args) {
       String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
